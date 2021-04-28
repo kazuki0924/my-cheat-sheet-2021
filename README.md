@@ -44,3 +44,6 @@ https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
 
 ### zsh-autocomplete
 - https://github.com/marlonrichert/zsh-autocomplete/blob/main/README.md#zsh-autocomplete
+
+### tmux plugins
+- https://github.com/tmux-plugins/tmux-sessionist
