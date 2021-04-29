@@ -25,7 +25,7 @@ https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
 - Shift + Click : open url
 
 ### tmux
-- Ctrl + a -> x : kill pane
+- prefix -> x : kill pane
 - Ctrl + a -> v : horizontal split
 - Ctrl + a -> V : vertical split
 - Ctrl + a -> j/k/h/l : select pane
@@ -46,6 +46,11 @@ https://github.com/tpope/vim-surround/blob/master/doc/surround.txt
 - https://github.com/marlonrichert/zsh-autocomplete/blob/main/README.md#zsh-autocomplete
 
 ### tmux plugins
-- tpm https://github.com/tmux-plugins/tpm
+
+#### tpm
+- https://github.com/tmux-plugins/tpm
+- prefix 
+
+
 - tmux-sessionist https://github.com/tmux-plugins/tmux-sessionist
 - 
